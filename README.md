@@ -9,7 +9,7 @@
   <img align="center" alt="Debbie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Debbie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Debbie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Debbie-pic" height="150" style="border-radius:50px;" src="https://br.pinterest.com/pin/986851337071583522/">
+  <img align="right" alt="Debbie-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/0a/05/2f/0a052fdf3a9879d3e9cd45a9f6740d7e.jpg">
 </div>
   
   ##
