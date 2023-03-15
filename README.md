@@ -9,6 +9,7 @@
   <img align="center" alt="Debbie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Debbie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Debbie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Debbie-pic" height="150" style="border-radius:50px;" src="https://br.pinterest.com/pin/986851337071583522/">
 </div>
   
   ##
